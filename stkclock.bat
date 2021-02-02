@@ -1,0 +1,1 @@
+start C:\Users\Fennekin\AppData\Local\Programs\Python\Python37\pythonw.exe c:\timeupdate.py
